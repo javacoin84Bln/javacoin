@@ -1,0 +1,9 @@
+Building Javacoin
+
+See doc/readme-qt.rst for instructions on building Javacoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Javacoin.
+
+See doc/build-*.txt for instructions on building javacoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Javacoin.
