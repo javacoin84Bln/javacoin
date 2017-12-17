@@ -1,7 +1,7 @@
 Javacoin integration/staging tree
 ================================
 
-http://javacoin.me
+https://javacoin.me
 
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2011-2013 Litecoin Developers
@@ -16,11 +16,11 @@ Javacoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - ~84840 million total coins
 
 The rest is the same as Bitcoin.
- - 50000 coins per block
+ - 5000 coins per block
  - 4320 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Javacoin client sofware, see http://javacoin.me.
+the Javacoin client sofware, see https://javacoin.me.
 
 License
 -------
